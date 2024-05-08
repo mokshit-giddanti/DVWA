@@ -27,7 +27,7 @@ To deploy DVWA on a local Kubernetes cluster, follow the steps below:
     kubectl port-forward <pod_name> 8080:80
     ```
 
-Open a web browser and enter `http://localhost:8080/` to access DVWA.
+Open a web browser and enter `http://localhost:8080/` to access DVWA
 
 ## Attack Surfaces
 
